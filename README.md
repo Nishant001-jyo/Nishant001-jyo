@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw1ZyCG3h1Mlu7hOmNV14gbJ&ust=1757436334953000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCklM3OyY8DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src= "https://i.pinimg.com/1200x/8d/fd/eb/8dfdebc67ffa92f7a86e499e19d74a8c.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant001-jyo&label=Profile%20views&color=0e75b6&style=flat" alt="nishant001-jyo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@citadel___01" target="blank"><img src="https://img.shields.io/twitter/follow/@citadel___01?logo=twitter&style=for-the-badge" alt="@citadel___01" /></a> </p>
