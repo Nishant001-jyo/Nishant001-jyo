@@ -25,36 +25,10 @@
 
 ## ☠️ About the Captain
 
-```python
-class PirateDeveloper:
 
-    def __init__(self):
-        self.name = "Nishant Kumar"
-        self.role = "AI/ML Engineer & MERN Stack Developer"
-        self.crew = "Straw Hat Developers"
-        self.dream = "Build something legendary"
-        self.current_arc = "Mastering AI Engineering"
         
-        self.skills = [
-            "Python", "Machine Learning",
-            "Deep Learning", "Generative AI",
-            "LLMs", "RAG", "FastAPI",
-            "React", "Node.js", "MongoDB",
-            "Docker", "Backend Development"
-        ]
-
-    def adventure(self):
-        while True:
-            self.learn()
-            self.build()
-            self.fail()
-            self.improve()
-            print("Never give up! 🏴‍☠️")
-
-
-captain = PirateDeveloper()
-captain.adventure()
-```
+         
+ 
 
 ## 🏴‍☠️ My Straw Hat Crew – Tech Stack
 
