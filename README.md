@@ -1,28 +1,166 @@
-<h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://i.pinimg.com/1200x/8d/fd/eb/8dfdebc67ffa92f7a86e499e19d74a8c.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant001-jyo&label=Profile%20views&color=0e75b6&style=flat" alt="nishant001-jyo" /> </p>
+ 
+<!-- ============================================ -->
+<!--       ONE PIECE DEVELOPER PROFILE             -->
+<!-- ============================================ -->
 
-<p align="left"> <a href="https://twitter.com/@citadel___01" target="blank"><img src="https://img.shields.io/twitter/follow/@citadel___01?logo=twitter&style=for-the-badge" alt="@citadel___01" /></a> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **b tech cse**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=WELCOME%20TO%20MY%20GRAND%20LINE&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Adventure%20of%20a%20Developer%20Begins&descAlignY=55&descSize=16" width="100%"/>
 
-- 📫 How to reach me **nishantsaw001@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=I+am+Nishant+Kumar;Future+King+of+the+Developers;AI%2FML+Engineer+%7C+MERN+Stack+Developer;Exploring+the+Grand+Line+of+Technology;Dreams+Never+Die+%F0%9F%8F%B4%E2%98%A0%EF%B8%8F" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@citadel___01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@citadel___01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/durai_nishant02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durai_nishant02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arya shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arya shaw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/durai_nishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="durai_nishant" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**"If you don't take risks, you can't create a future." — Monkey D. Luffy**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant001-jyo&show_icons=true&locale=en&layout=compact" alt="nishant001-jyo" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant001-jyo&show_icons=true&locale=en" alt="nishant001-jyo" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant001-jyo&" alt="nishant001-jyo" /></p>
+</div>
+
+---
+
+## ☠️ About the Captain
+
+```python
+class PirateDeveloper:
+
+    def __init__(self):
+        self.name = "Nishant Kumar"
+        self.role = "AI/ML Engineer & MERN Stack Developer"
+        self.crew = "Straw Hat Developers"
+        self.dream = "Build something legendary"
+        self.current_arc = "Mastering AI Engineering"
+        
+        self.skills = [
+            "Python", "Machine Learning",
+            "Deep Learning", "Generative AI",
+            "LLMs", "RAG", "FastAPI",
+            "React", "Node.js", "MongoDB",
+            "Docker", "Backend Development"
+        ]
+
+    def adventure(self):
+        while True:
+            self.learn()
+            self.build()
+            self.fail()
+            self.improve()
+            print("Never give up! 🏴‍☠️")
+
+
+captain = PirateDeveloper()
+captain.adventure()
+```
+
+## 🏴‍☠️ My Straw Hat Crew – Tech Stack
+
+<div align="center">
+
+### 🧠 Devil Fruit Powers – AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+
+### ⚡ Grand Line – GenAI & Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,redis" />
+
+### ⚔️ Combat Skills – MERN Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb" />
+
+### 🛠️ Pirate Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+</div>
+
+---
+
+## 🍖 My Bounty – GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=ff4500&icon_color=ff4500"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+## 🌊 The Journey Through the Grand Line
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+### ⚓ Current Adventures
+
+- 🧠 Building production-level AI and GenAI applications.
+- 🤖 Exploring LLMs, RAG, AI Agents and LLM Evaluation.
+- ⚡ Developing scalable backend systems with FastAPI.
+- 🌐 Building full-stack applications using MERN.
+- 🚀 Turning ideas into real-world products.
+
+---
+
+## 🏆 My Legendary Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔬 ResearchPilot AI | AI Research & Decision Intelligence Platform | FastAPI, LLM, RAG |
+| 🎯 SupportIQ | AI Customer Support Quality Auditor | GenAI, Python |
+| 🛡️ Sentinel AI | GenAI Security & Evaluation | LLM, AI Security |
+| 🚀 Full Stack Apps | Production-ready web applications | MERN Stack |
+
+---
+
+## 🐍 The Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 👒 The Straw Hat Philosophy
+
+<div align="center">
+
+| Character | Developer Philosophy |
+|:---:|:---|
+| 🏴‍☠️ Luffy | Dream big and never give up |
+| ⚔️ Zoro | Discipline beats motivation |
+| 🍊 Nami | Plan before execution |
+| 🧠 Robin | Never stop learning |
+| 🔧 Franky | Build something SUPER! |
+| 🍖 Sanji | Passion in everything |
+| 🎯 Usopp | Courage to face challenges |
+
+</div>
+
+---
+
+## 🌅 The Adventure Never Ends
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=130&section=footer&text=TO%20BE%20CONTINUED...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+**⭐ If you like my work, consider giving my repositories a star!**
+
+*“The One Piece is real!”* 🏴‍☠️
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff4500&style=for-the-badge)
+
+</div>
