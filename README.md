@@ -1,140 +1,163 @@
- 
-<!-- ============================================ -->
-<!--       ONE PIECE DEVELOPER PROFILE             -->
-<!-- ============================================ -->
+ <div align="center">
 
-<div align="center">
+<!-- ITACHI CINEMATIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:300000,100:8B0000&height=230&section=header&text=UCHIHA%20ITACHI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=THE%20SHADOW%20OF%20THE%20HIDDEN%20LEAF&descSize=17&descAlignY=60" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=WELCOME%20TO%20MY%20GRAND%20LINE&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Adventure%20of%20a%20Developer%20Begins&descAlignY=55&descSize=16" width="100%"/>
+<!-- FULL BODY ITACHI GIF: ADD YOUR OWN ANIMATED ASSET -->
+<img src="./assets/itachi-full-body.gif" width="260" alt="Animated full-body Itachi Uchiha"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=I+am+Nishant+Kumar;Future+King+of+the+Developers;AI%2FML+Engineer+%7C+MERN+Stack+Developer;Exploring+the+Grand+Line+of+Technology;Dreams+Never+Die+%F0%9F%8F%B4%E2%98%A0%EF%B8%8F" />
-
-<br/>
-
-**"If you don't take risks, you can't create a future." — Monkey D. Luffy**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=FF3030&center=true&vCenter=true&width=700&lines=UCHIHA+ITACHI+MODE+ACTIVATED;AI%2FML+ENGINEER+%7C+MERN+STACK+DEVELOPER;Turning+ideas+into+intelligence;Silence+is+the+strongest+weapon." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
+**"People live their lives bound by what they accept as correct and true."**
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B0000)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## ☠️ About the Captain
+## 🔴 THE SHINOBI BEHIND THE SCREEN
 
+```python
+class UchihaDeveloper:
 
-        
-         
- 
+    def __init__(self):
+        self.name = "Nishant Kumar"
+        self.title = "AI/ML Engineer"
+        self.secondary_role = "MERN Stack Developer"
 
-## 🏴‍☠️ My Straw Hat Crew – Tech Stack
+        self.special_abilities = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "LLMs & RAG",
+            "FastAPI",
+            "MERN Stack",
+            "Docker",
+            "Backend Engineering"
+        ]
+
+        self.mission = "Build intelligent real-world products"
+        self.mindset = "Discipline > Motivation"
+
+    def train(self):
+        return "Learn. Build. Deploy. Repeat."
+
+    def activate_sharingan(self):
+        return "Infinite possibilities unlocked!"
+
+shinobi = UchihaDeveloper()
+print(shinobi.train())
+```
+
+## ⚔️ SHARINGAN SKILL TREE
 
 <div align="center">
 
-### 🧠 Devil Fruit Powers – AI / ML
+**🧠 Intelligence Techniques — AI / ML**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv"/>
 
-### ⚡ Grand Line – GenAI & Backend
+**🔴 Genjutsu — Generative AI & LLM Engineering**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,docker"/>
 
-### ⚔️ Combat Skills – MERN Stack
+**⚡ Ninjutsu — Full Stack Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb"/>
 
-### 🛠️ Pirate Tools
+**🛠️ Shinobi Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 
 </div>
 
 ---
 
-## 🍖 My Bounty – GitHub Statistics
+## 🩸 AMATERASU — CURRENT MISSION
+
+- Building production-ready AI applications.
+- Developing RAG pipelines and LLM-powered systems.
+- Exploring AI Agents, LLM Evaluation and AI Security.
+- Building scalable APIs using Python and FastAPI.
+- Developing full-stack applications with MERN.
+- Turning experimental ideas into real-world products.
+
+---
+
+## 🏯 LEGENDARY PROJECTS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=ff4500&icon_color=ff4500"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+| Project | Mission | Technology |
+|:---|:---|:---|
+| 🔬 ResearchPilot AI | Research & Decision Intelligence | FastAPI, RAG, LLM |
+| 🎯 SupportIQ | AI Customer Support Quality Auditor | Python, GenAI |
+| 🛡️ SentinelAI | GenAI Security & Evaluation | LLM, AI Security |
+| 🚀 Full Stack Projects | Production-ready applications | MERN Stack |
 
 </div>
 
 ---
 
-## 🌊 The Journey Through the Grand Line
+## 👁️ MANGEKYO SHARINGAN — GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D0000&title_color=FF3030&icon_color=FF0000&text_color=FFFFFF"/>
 
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D0000&title_color=FF3030&text_color=FFFFFF"/>
 
-### ⚓ Current Adventures
+<br/>
 
-- 🧠 Building production-level AI and GenAI applications.
-- 🤖 Exploring LLMs, RAG, AI Agents and LLM Evaluation.
-- ⚡ Developing scalable backend systems with FastAPI.
-- 🌐 Building full-stack applications using MERN.
-- 🚀 Turning ideas into real-world products.
-
----
-
-## 🏆 My Legendary Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🔬 ResearchPilot AI | AI Research & Decision Intelligence Platform | FastAPI, LLM, RAG |
-| 🎯 SupportIQ | AI Customer Support Quality Auditor | GenAI, Python |
-| 🛡️ Sentinel AI | GenAI Security & Evaluation | LLM, AI Security |
-| 🚀 Full Stack Apps | Production-ready web applications | MERN Stack |
-
----
-
-## 🐍 The Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0000&ring=FF0000&fire=FF3030&currStreakLabel=FF3030"/>
 
 </div>
 
 ---
 
-## 👒 The Straw Hat Philosophy
+## 🐦 CROWS OF THE UCHIHA — CONTRIBUTION ANIMATION
 
 <div align="center">
 
-| Character | Developer Philosophy |
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+## 🔥 THE AKATSUKI CODE
+
+<div align="center">
+
+<img src="https://gif-avatars.com/img/200x200/itachi-uchiha.gif" width="150" alt="Animated Itachi avatar"/>
+
+| Shinobi | Developer Principle |
 |:---:|:---|
-| 🏴‍☠️ Luffy | Dream big and never give up |
-| ⚔️ Zoro | Discipline beats motivation |
-| 🍊 Nami | Plan before execution |
-| 🧠 Robin | Never stop learning |
-| 🔧 Franky | Build something SUPER! |
-| 🍖 Sanji | Passion in everything |
-| 🎯 Usopp | Courage to face challenges |
+| Itachi | Sacrifice for the bigger vision |
+| Madara | Think beyond limitations |
+| Kakashi | Learn from every experience |
+| Naruto | Never give up |
+| Shikamaru | Strategic problem solving |
 
 </div>
 
 ---
 
-## 🌅 The Adventure Never Ends
+## 🌑 FINAL WORDS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=130&section=footer&text=TO%20BE%20CONTINUED...&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:300000,100:000000&height=150&section=footer&text=THE%20SHINOBI%20NEVER%20STOPS&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-**⭐ If you like my work, consider giving my repositories a star!**
+**⭐ Star my repositories if you like my work.**
 
-*“The One Piece is real!”* 🏴‍☠️
+*Even in darkness, keep creating your own light.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff4500&style=for-the-badge)
+**— Uchiha Nishant 🩸**
 
 </div>
